@@ -1,0 +1,2 @@
+include example/manifest-schema.yml
+include example/README.rst
